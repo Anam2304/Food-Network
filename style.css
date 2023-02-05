@@ -1,0 +1,73 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+section {
+  display: flex;
+}
+div {
+  padding: 100px;
+}
+h1 {
+  font-size: 50px;
+}
+.half-width {
+  padding-right: 10px;
+  width: 50%;
+}
+.half-width img {
+  width: 80%;
+}
+.orange_colour {
+  color: orange;
+}
+.link-button {
+  color: white;
+  line-height: 100px;
+  font-weight: 700;
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  padding: 10px 20px;
+  border-radius: 100px;
+}
+.center {
+  text-align: center;
+}
+.box {
+  justify-content: center;
+  border-radius: 10%;
+
+  width: 80%;
+  margin: 5%;
+  box-shadow: 10px 10px 40px black;
+  padding: 5px;
+}
+p {
+  font-size: small;
+}
+.full-box {
+  width: 60%;
+  margin: auto;
+  display: flex;
+  border-radius: 5%;
+  box-shadow: 10px 10px 40px black;
+}
+.Food {
+  color: rgb(158, 116, 37);
+}
+.net {
+  color: grey;
+}
+footer {
+  width: 100%;
+  text-align: center;
+  background-color: black;
+  margin: unset;
+}
+.white-colour {
+  color: white;
+}
+.center-3 {
+  display: block;
+  padding: 10%;
+  width: 60%;
+}
